@@ -1,0 +1,26 @@
+_repo: L-anfiteatro-Flavio-nei-suoi-venti-secoli-di-storia_68663
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colagrossi, Mariano
+    gutenberg_agent_id: '54891'
+    url: http://www.gutenberg.org/2009/agents/54891
+description: ''
+gutenberg_issued: '2022-08-01'
+identifiers:
+  gutenberg: '68663'
+language: it
+pgterms:marc904: https://archive.org/details/lanfiteatroflavi00colauoft
+pgterms:marc905: 20200908092044colagrossi
+pgterms:marc906: '1913'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Libreria Editrice Fiorentina,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'anfiteatro Flavio nei suoi venti secoli di storia
+url: http://www.gutenberg.org/ebooks/68663
