@@ -1,11 +1,16 @@
 _repo: L-anfiteatro-Flavio-nei-suoi-venti-secoli-di-storia_68663
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68663-h/images/cover.jpg
 creator:
   author:
     agent_name: Colagrossi, Mariano
     gutenberg_agent_id: '54891'
     url: http://www.gutenberg.org/2009/agents/54891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68663#L-anfiteatro-Flavio-nei-suoi-venti-secoli-di-storia
 gutenberg_issued: '2022-08-01'
 identifiers:
   gutenberg: '68663'
